@@ -30,13 +30,13 @@ var config = {
             
             <p>University President Rev. William P. Leahy, S.J., first encountered Boston College&rsquo;s campus as a Ph.D. student in 1982, when he visited for a few weeks to work on his dissertation on 20th-century Jesuit education.</p>
 
-                        <p>&ldquo;Like many grad students, I was more involved with the notes I was taking than with my surroundings,&rdquo; Leahy <a href="https://newspapers.bc.edu/?a=d&d=bcchronicle19951102-01.2.3&srpos=6&e=-------en-20--1-byDA-txt-txIN-%22fr.+leahy%22----------------------" style="text-decoration:none;"><u><span style="color:#8b0000;">told&nbsp;</span></u></a><a href="https://newspapers.bc.edu/?a=d&d=bcchronicle19951102-01.2.3&srpos=6&e=-------en-20--1-byDA-txt-txIN-%22fr.+leahy%22----------------------" style="text-decoration:none;"><em><u><span style="color:#8b0000;">The Boston College Chronicle</span></u></em></a> in 1995. &ldquo;But I have always remembered the beautiful Gothic buildings and walking around the reservoir and thinking, they have some nice open spaces here.&rdquo;</p>
+                        <p>&ldquo;Like many grad students, I was more involved with the notes I was taking than with my surroundings,&rdquo; Leahy <a href="https://newspapers.bc.edu/?a=d&d=bcchronicle19951102-01.2.3&srpos=6&e=-------en-20--1-byDA-txt-txIN-%22fr.+leahy%22----------------------" target="_blank" style="text-decoration:none;"><u><span style="color:#8b0000;">told&nbsp;</span></u></a><a href="https://newspapers.bc.edu/?a=d&d=bcchronicle19951102-01.2.3&srpos=6&e=-------en-20--1-byDA-txt-txIN-%22fr.+leahy%22----------------------" target="_blank" style="text-decoration:none;"><em><u><span style="color:#8b0000;">The Boston College Chronicle</span></u></em></a> in 1995. &ldquo;But I have always remembered the beautiful Gothic buildings and walking around the reservoir and thinking, they have some nice open spaces here.&rdquo;</p>
 
                         <p>He would spend the next three decades making more of them.</p>
 
                         <p>When Leahy took the helm of BC in July 1996, the institution owned its quintessential upper, middle, and lower campuses, a solid chunk of land in Newton, an observatory in Weston, and some peripheral houses&mdash;all totaling around 180 acres.</p>
 
-                        <p>Now, as Leahy&rsquo;s <a href="https://bcheights.com/214707/news/leahy-to-step-down-in-summer-2026-after-longest-university-president-tenure-in-bc-history/" style="text-decoration:none;"><u><span style="color:#8b0000;">presidential tenure comes to a close</span></u></a>, he&rsquo;ll leave BC with 430 acres of land&mdash;about the size of 325 football fields&mdash;spanning seven municipalities and two countries.</p>
+                        <p>Now, as Leahy&rsquo;s <a href="https://bcheights.com/214707/news/leahy-to-step-down-in-summer-2026-after-longest-university-president-tenure-in-bc-history/" target="_blank" style="text-decoration:none;"><u><span style="color:#8b0000;">presidential tenure comes to a close</span></u></a>, he&rsquo;ll leave BC with 430 acres of land&mdash;about the size of 325 football fields&mdash;spanning seven municipalities and two countries.</p>
 
                         <p>During Leahy&rsquo;s 30-year presidency, BC acquired new campuses in Brighton and Brookline, 79 acres of land in Dover, Mass., property in the heart of Dublin, a retreat house in Cohasset, Mass., an extension to Newton Campus, along with over 50 additional properties near its campuses.</p>
                         <p>Vice President of Institutional Research and Planning Mara Hermano said that, during the six years she&rsquo;s spent in her role, she has noticed that BC&rsquo;s physical expansion is used to further its strategic goals rooted in its Jesuit, Catholic identity.</p>
@@ -70,15 +70,15 @@ var config = {
                 <p style="font-size: 13px; color: #888; margin: 0 0 12px 0; font-style: italic;">(Elisa.rolle, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons)</p>
             
             Under Leahy, Boston College extended its presence in Ireland by
-<a href="https://newspapers.bc.edu/?a=d&amp;d=bcheights19990420.2.14&amp;srpos=65&amp;e=------199-en-20-bcheights-61--txt-txIN-Dublin------"><font color="#8b0000"><u>purchasing
-property in the center of Dublin</u></font></a>, solidifying BC’s
+<a href="https://newspapers.bc.edu/?a=d&amp;d=bcheights19990420.2.14&amp;srpos=65&amp;e=------199-en-20-bcheights-61--txt-txIN-Dublin------" target="_blank"><font color="#8b0000"><u>purchasing
+property in the center of Dublin</u></font></a>, solidifying BC's
 position as one of the leading American universities in Ireland and
 furthering the relationship between BC and Ireland.</p>
 <p>
-The property, 42-43 St. Stephen’s
+The property, 42-43 St. Stephen's
 Green, was acquired in April 1999 to house the Irish Institute and BC
 Ireland. The exact sale price is unknown, though sources told an
-Irish newspaper in 1999 that the sum <a href="https://www.independent.ie/irish-news/college-pays-4m-for-base-in-capital/26152640.html"><font color="#8b0000"><u>totaled
+Irish newspaper in 1999 that the sum <a href="https://www.independent.ie/irish-news/college-pays-4m-for-base-in-capital/26152640.html" target="_blank"><font color="#8b0000"><u>totaled
 over £4 million</u></font></a>.</p>
 
 <p>BC Ireland supports the BC community in
@@ -98,7 +98,7 @@ during the school year and the summer, as well as a summer internship
 program.</p>
 
 <p>It has also worked with the U.S.
-Embassy, Ireland’s Department of Foreign Affairs and Trade, and the
+Embassy, Ireland's Department of Foreign Affairs and Trade, and the
 Irish U.S. Alumni Association.</p>`,
 
             location: {
@@ -124,22 +124,22 @@ Irish U.S. Alumni Association.</p>`,
             
             
             The path to
-BC’s costliest land acquisition during Leahy’s tenure—the
+BC's costliest land acquisition during Leahy's tenure—the
 $172.4 million, 66-acre Brighton Campus—came as a result of one of
 the most publicized and consequential crises in American Catholic
 history.</p>
 
 <p>
 In early 2002, <i>The Boston
-Globe</i> published <a href="https://www.bostonglobe.com/news/special-reports/2002/01/06/church-allowed-abuse-priest-for-years/cSHfGkTIrAT25qKGvBuDNM/story.html"><font color="#8b0000"><u>an
+Globe</i> published <a href="https://www.bostonglobe.com/news/special-reports/2002/01/06/church-allowed-abuse-priest-for-years/cSHfGkTIrAT25qKGvBuDNM/story.html" target="_blank"><font color="#8b0000"><u>an
 investigation</u></font></a> that revealed clergy sex abuse and the
 lengths to which church leaders went to cover it up, triggering
 international scrutiny and a wave of lawsuits.</p>
 
 <p>In 2002, the Archdiocese of Boston
-agreed to <a href="https://graphics.boston.com/globe/spotlight/abuse/stories3/091902_geoghan.htm"><font color="#8b0000"><u>pay
+agreed to <a href="https://graphics.boston.com/globe/spotlight/abuse/stories3/091902_geoghan.htm" target="_blank"><font color="#8b0000"><u>pay
 $10 million</u></font></a> to victims of a single priest, and in 2003
-it paid <a href="https://www.nytimes.com/2003/09/10/us/church-in-boston-to-pay-85-million-in-abuse-lawsuits.html"><font color="#8b0000"><u>an
+it paid <a href="https://www.nytimes.com/2003/09/10/us/church-in-boston-to-pay-85-million-in-abuse-lawsuits.html" target="_blank"><font color="#8b0000"><u>an
 additional $85 million</u></font></a> to around 550 victims—at the
 time the largest such settlement in U.S. Catholic Church history. 
 </p>
@@ -147,7 +147,7 @@ time the largest such settlement in U.S. Catholic Church history.
 <p>The archdiocese promised that no parish
 funds would be used to pay off the settlements. To raise the money,
 it would have to sell some of its land. And some of its most valuable
-land sat directly across Commonwealth Avenue from BC’s Lower
+land sat directly across Commonwealth Avenue from BC's Lower
 Campus.</p>
 
 <p>The Brighton property—home to the
@@ -156,21 +156,21 @@ built over decades into an expansive compound of seminary buildings,
 chancery offices, and the former residence of a cardinal and
 archbishop of Boston, who had resigned due to the scandal.</p>
 
-<p>In 2004, BC agreed to <a href="https://newspapers.bc.edu/?a=d&amp;d=bcheights20040601.2.2&amp;srpos=3&amp;e=------200-en-20--1--txt-txIN-archdiocese----------------------"><font color="#8b0000"><u>purchase
+<p>In 2004, BC agreed to <a href="https://newspapers.bc.edu/?a=d&amp;d=bcheights20040601.2.2&amp;srpos=3&amp;e=------200-en-20--1--txt-txIN-archdiocese----------------------" target="_blank"><font color="#8b0000"><u>purchase
 43 acres</u></font></a> of the Brighton headquarters for $99.4
 million. Church officials specified that the money would go toward
-paying off <a href="https://www.thebostonpilot.com/article.php?ID=1348#:~:text=The%20Archdiocese%20of%20Boston%20will,university%E2%80%99s%20current%20140%2Dacre%20property."><font color="#8b0000"><u>$90
+paying off <a href="https://www.thebostonpilot.com/article.php?ID=1348#:~:text=The%20Archdiocese%20of%20Boston%20will,university%E2%80%99s%20current%20140%2Dacre%20property." target="_blank"><font color="#8b0000"><u>$90
 million in loans</u></font></a> taken out to settle the abuse
 lawsuits.</p>
 
-<p>“The cost will be significant, but we
+<p>"The cost will be significant, but we
 could not pass up the opportunity for more land, especially parcels
-so close to our campus,” Leahy <a href="https://www.thebostonpilot.com/article.php?ID=1348#:~:text=The%20Archdiocese%20of%20Boston%20will,university%E2%80%99s%20current%20140%2Dacre%20property."><font color="#8b0000"><u>told</u></font></a>
+so close to our campus," Leahy <a href="https://www.thebostonpilot.com/article.php?ID=1348#:~:text=The%20Archdiocese%20of%20Boston%20will,university%E2%80%99s%20current%20140%2Dacre%20property." target="_blank"><font color="#8b0000"><u>told</u></font></a>
 <i>The Pilot</i>, a Boston-based Catholic newspaper. 
 </p>
 
 <p>Leahy added that BC would raise money
-“very aggressively” from alumni to help pay for the property.
+"very aggressively" from alumni to help pay for the property.
 University Spokesman Jack Dunn said alumni would understand the
 importance of their purchase.</p>
 
@@ -189,10 +189,10 @@ along with a number of buildings.</p>
 <p style="font-size: 13px; color: #888; margin: 0 0 12px 0; font-style: italic;">(Heights Archives)</p>
 
 <p>Over the following two decades, BC
-methodically filled in, renovated, and repurposed the archdiocese’s
+methodically filled in, renovated, and repurposed the archdiocese's
 land and buildings.</p>
 
-<p>In 2007, BC <a href="https://newspapers.bc.edu/?a=d&amp;d=bcheights20071108.2.2&amp;srpos=1&amp;e=------200-en-20--1--txt-txIN-school+of+theology----------------------"><font color="#8b0000"><u>established</u></font></a>
+<p>In 2007, BC <a href="https://newspapers.bc.edu/?a=d&amp;d=bcheights20071108.2.2&amp;srpos=1&amp;e=------200-en-20--1--txt-txIN-school+of+theology----------------------" target="_blank"><font color="#8b0000"><u>established</u></font></a>
 its School of Theology and Ministry on a portion of Brighton Campus,
 bringing together its own Institute of Religious Education and
 Pastoral Ministry and the Weston Jesuit School of Theology to form
@@ -200,20 +200,20 @@ its fifth school within the University.
 </p>
 
 <p>In 2016, the former cardinal's mansion
-was <a href="https://newspapers.bc.edu/?a=d&amp;d=bcchronicle20141204-01.2.3&amp;srpos=3&amp;e=-------en-20--1--txt-txIN-mcmullen+museum----------------------"><font color="#8b0000"><u>remodeled
+was <a href="https://newspapers.bc.edu/?a=d&amp;d=bcchronicle20141204-01.2.3&amp;srpos=3&amp;e=-------en-20--1--txt-txIN-mcmullen+museum----------------------" target="_blank"><font color="#8b0000"><u>remodeled
 and reopened</u></font></a> as the new home of BC's McMullen Museum
 of Art, with nearly double its previous exhibition space.</p>
 
-<p>On Brighton Campus’ northernmost end,
+<p>On Brighton Campus' northernmost end,
 BC built the Harrington Athletics Village, which opened in 2018 to
 give BC's baseball and softball programs new full-time homes.</p>
 
-<p>And in 2025, BC <a href="https://www.bc.edu/bc-web/sites/bc-news/articles/2025/spring/catholic-religious-archives-construction-to-begin.html"><font color="#8b0000"><u>began</u></font></a>
+<p>And in 2025, BC <a href="https://www.bc.edu/bc-web/sites/bc-news/articles/2025/spring/catholic-religious-archives-construction-to-begin.html" target="_blank"><font color="#8b0000"><u>began</u></font></a>
 the construction of the Catholic Religious Archives, a two-story,
 44,000-square-foot facility on Brighton Campus that will preserve
 records and other archival materials from Catholic religious orders.</p>
 
-<p>Today, Brighton Campus’s 520,884
+<p>Today, Brighton Campus's 520,884
 square feet of buildings are also home to a community of Jesuits and
 offices for major administrative offices, including University
 Advancement, Human Resources, and University Communications.</p>`,
@@ -257,15 +257,15 @@ decades before deciding to close the priory in 2004.</p>
 demand for spaces to host conferences and retreats. 
 </p>
 
-<p>In 2005, Jack Connors, BC ’63, and
-his wife, Eileen, BC ’66, <a href="https://newspapers.bc.edu/?a=d&amp;d=bcheights20051013.2.11&amp;srpos=1&amp;e=-------en-20--1--txt-txIN-connors+family+retreat----------------------"><font color="#8b0000"><u>donated</u></font></a>
+<p>In 2005, Jack Connors, BC '63, and
+his wife, Eileen, BC '66, <a href="https://newspapers.bc.edu/?a=d&amp;d=bcheights20051013.2.11&amp;srpos=1&amp;e=-------en-20--1--txt-txIN-connors+family+retreat----------------------" target="_blank"><font color="#8b0000"><u>donated</u></font></a>
 $10 million to establish the property as the Connors Family Retreat
 and Conference Center.</p>
 
-<p>“I am confident that The Connors
+<p>"I am confident that The Connors
 Family Retreat and Conference Center will contribute significantly to
 the personal and professional growth of numerous Boston College
-students, faculty, staff, alumni, and friends,” Leahy said in an
+students, faculty, staff, alumni, and friends," Leahy said in an
 interview with <i>The Chronicle</i>. 
 </p>
 
@@ -305,7 +305,7 @@ its Chestnut Hill site since the mid-1950s, when it acquired the
 property from the state. But its congregation had seen a decline in
 membership, and the synagogue was ready to move to smaller quarters.</p>
 <p>In August 2015, Boston College
-announced an agreement to <a href="https://www.bostonglobe.com/business/2015/08/04/purchase-acre-synagogue-site-newton/d0yeeaOewxhA2cW8zDUU3H/story.html"><font color="#8b0000"><u>purchase</u></font></a>
+announced an agreement to <a href="https://www.bostonglobe.com/business/2015/08/04/purchase-acre-synagogue-site-newton/d0yeeaOewxhA2cW8zDUU3H/story.html" target="_blank"><font color="#8b0000"><u>purchase</u></font></a>
 the 24-acre parcel at 300 Hammond Pond Parkway, 1.2 miles from its
 main campus and surrounded by conservation land. 
 </p>
@@ -319,24 +319,24 @@ with the 17.4 acres of undeveloped forest at the back of the
 parcel—land sitting in the middle of Newton's largest contiguous
 woodland, flanked on all sides by public conservation areas.</p>
 <p>In December 2019, following a
-multi-year <a href="https://newtonconservators.org/save-webster-woods/"><font color="#8b0000"><u>campaign</u></font></a>
+multi-year <a href="https://newtonconservators.org/save-webster-woods/" target="_blank"><font color="#8b0000"><u>campaign</u></font></a>
 by the Friends of Webster Woods and the Newton Conservators, the
-Newton City Council <a href="https://bcheights.com/166814/metro/newton-city-council-votes-unanimously-to-seize-webster-woods/"><font color="#8b0000"><u>voted
+Newton City Council <a href="https://bcheights.com/166814/metro/newton-city-council-votes-unanimously-to-seize-webster-woods/" target="_blank"><font color="#8b0000"><u>voted
 unanimously</u></font></a> to take 17 wooded acres from BC by eminent
 domain, paying the university $15.2 million in compensation.</p>
 <p>BC called the sum &quot;grossly
-underestimated” and filed suit. The legal battle—which has since
+underestimated" and filed suit. The legal battle—which has since
 led to questions about the validity of the original 1954 deed under
 which the state sold the land to the synagogue—remains unresolved,
 with a Middlesex Superior Court ruling in BC's favor now being
 contested by the city in Land Court.</p>
 <p>BC has since renovated the former
-synagogue to hold an auditorium venue for BC’s Robsham Theater Arts
+synagogue to hold an auditorium venue for BC's Robsham Theater Arts
 Center and administrative office space.</p>
-<p><i>Editor’s Note: The boundaries of
+<p><i>Editor's Note: The boundaries of
 the property highlighted on this map represent the 7.6 acres of land
 officially owned by BC as of 2026. Read our full explanation of the
-Webster Woods controversy </i><a href="https://bcheights.com/223712/metro/who-owns-webster-woods-newton-bc-and-the-state-all-say-me/"><font color="#8b0000"><i><u>here</u></i></font></a><i>.</i></p>
+Webster Woods controversy </i><a href="https://bcheights.com/223712/metro/who-owns-webster-woods-newton-bc-and-the-state-all-say-me/" target="_blank"><font color="#8b0000"><i><u>here</u></i></font></a><i>.</i></p>
 
                 `,            
             location: {
@@ -357,10 +357,10 @@ Webster Woods controversy </i><a href="https://bcheights.com/223712/metro/who-ow
             hidden: false,
             title: 'A Mansion in Cohasset',
 
-            description: `<p><a href="https://www.bc.edu/bc-web/offices/missionministry/about/bellarmine-house.html"><font color="#8b0000"><u>Bellarmine
+            description: `<p><a href="https://www.bc.edu/bc-web/offices/missionministry/about/bellarmine-house.html" target="_blank"><font color="#8b0000"><u>Bellarmine
 House</u></font></a> is a 24-bedroom mansion on 8.5 acres at the end
 of Howard Gleason Road in Cohasset, overlooking Cohasset Harbor with
-Minot’s Ledge Light lighthouse in the distance.</p>
+Minot's Ledge Light lighthouse in the distance.</p>
 <p>The house was built between 1880 and
 1881 by architect H.H. Richardson for John Bryant and his wife
 Charlotte, the daughter of Frederick Law Olmsted, who designed the
@@ -399,8 +399,8 @@ retreats and events.</p>`,
             <p>Pine Manor
 College was a private university in Brookline that served a majority
 of first-generation and low-income students. When it experienced
-financial uncertainties due to COVID-19, BC agreed to <a href="https://www.bostonglobe.com/2020/05/13/metro/boston-college-will-take-over-pine-manor/"><font color="#8b0000"><u>acquire</u></font></a>
-the college’s assets—including its 46-acre campus—as well as
+financial uncertainties due to COVID-19, BC agreed to <a href="https://www.bostonglobe.com/2020/05/13/metro/boston-college-will-take-over-pine-manor/" target="_blank"><font color="#8b0000"><u>acquire</u></font></a>
+the college's assets—including its 46-acre campus—as well as
 its liabilities, which totaled around $11 million.</p>
 <p>The campus includes academic
 facilities, dorms, an auditorium, a library, a student activities
@@ -408,12 +408,12 @@ center, six tennis courts, and a soccer field.
 </p>
 <p>After the agreement was finalized, BC
 announced a $50 million endowment—which later grew to $100
-million—to create the <a href="https://www.bc.edu/bc-web/sites/pine-manor-institute/about.html"><font color="#8b0000"><u>Pine
+million—to create the <a href="https://www.bc.edu/bc-web/sites/pine-manor-institute/about.html" target="_blank"><font color="#8b0000"><u>Pine
 Manor Institute for Student Success</u></font></a>, a collection of
 programs supporting first-generation and low-income students.</p>
 <p>At its center was Messina College, an
-associate’s degree program, which opened its doors in July 2024.
-Its <a href="https://www.bc.edu/bc-web/sites/bc-news/articles/2024/summer/messina-college-opens.html"><font color="#8b0000"><u>inaugural
+associate's degree program, which opened its doors in July 2024.
+Its <a href="https://www.bc.edu/bc-web/sites/bc-news/articles/2024/summer/messina-college-opens.html" target="_blank"><font color="#8b0000"><u>inaugural
 class</u></font></a> comprises 110 first-generation students, largely
 from Boston and other cities in Massachusetts.</p>
 `,
@@ -442,7 +442,7 @@ from Boston and other cities in Massachusetts.</p>
             <p>When Mount
 Alvernia High School in Newton closed down in October 2023 due to
 enrollment and financial challenges, the Missionary Franciscan
-Sisters of the Immaculate Conception <a href="https://bcheights.com/209169/news/bc-purchases-mount-alvernia-high-school-property-across-from-newton-campus/"><font color="#8b0000"><u>sold
+Sisters of the Immaculate Conception <a href="https://bcheights.com/209169/news/bc-purchases-mount-alvernia-high-school-property-across-from-newton-campus/" target="_blank"><font color="#8b0000"><u>sold
 the property</u></font></a> to BC in hopes of keeping it in the hands
 of a Catholic institution. 
 </p>
@@ -450,7 +450,7 @@ of a Catholic institution.
 three buildings and a garage, is located across from Newton Campus
 and was purchased for $40.5 million. 
 </p>
-<p>This caused <a href="https://bcheights.com/205652/metro/88-year-old-newton-catholic-schools-closure-prompts-outcry-from-alumni/"><font color="#8b0000"><u>controversy</u></font></a>
+<p>This caused <a href="https://bcheights.com/205652/metro/88-year-old-newton-catholic-schools-closure-prompts-outcry-from-alumni/" target="_blank"><font color="#8b0000"><u>controversy</u></font></a>
 among some Mount Alvernia alumni who opposed the closure. A petition
 signed by alumni states that the sale of the property is not a
 reflection of the values instilled by the school.</p>
@@ -458,7 +458,7 @@ reflection of the values instilled by the school.</p>
 demolish two of the buildings and renovate 60,000 square feet of the
 75,000-square-foot property.</p>
 <p>The University is using the property to
-build a <a href="https://bcheights.com/217022/news/bc-to-build-new-social-work-building-and-recreation-facility-on-newton-campus-and-mount-alvernia-property/"><font color="#8b0000"><u>new
+build a <a href="https://bcheights.com/217022/news/bc-to-build-new-social-work-building-and-recreation-facility-on-newton-campus-and-mount-alvernia-property/" target="_blank"><font color="#8b0000"><u>new
 School of Social Work building</u></font></a>, an athletic facility
 for soccer and field hockey, and a space for the Urban Catholic
 Teacher Corps, a program housing teachers in the area.</p>`,
@@ -487,13 +487,13 @@ Teacher Corps, a program housing teachers in the area.</p>`,
             <p>As BC has
 acquired its larger properties, it has also steadily continued
 acquiring over 50 homes around its Chestnut Hill and Brighton
-campuses, most recently purchasing 9 Old Orchard Rd., <a href="https://www.wickedlocal.com/story/regional/2022/12/19/historic-hammond-house-in-newton-for-sale-for-8-million/69685736007/?gnt-cfr=1&amp;gca-cat=p&amp;gca-uir=true&amp;gca-epti=z113701e000200v113701d--37--b--37--&amp;gca-ft=97&amp;gca-ds=sophi"><font color="#8b0000"><u>possibly
+campuses, most recently purchasing 9 Old Orchard Rd., <a href="https://www.wickedlocal.com/story/regional/2022/12/19/historic-hammond-house-in-newton-for-sale-for-8-million/69685736007/?gnt-cfr=1&amp;gca-cat=p&amp;gca-uir=true&amp;gca-epti=z113701e000200v113701d--37--b--37--&amp;gca-ft=97&amp;gca-ds=sophi" target="_blank"><font color="#8b0000"><u>possibly
 the oldest house in Newton</u></font></a>, in 2024.</p>
 <p>And as Leahy concludes his historic
 presidency, physical expansion continues.</p>
 <p>The Catholic Religious Archives are set
 to finish this summer. The new social work building is being built.
-And just last week, BC announced a <a href="https://bcheights.com/231292/news/boston-college-receives-largest-donation-in-history-to-renovate-and-rename-carney-hall/"><font color="#8b0000"><u>$125
+And just last week, BC announced a <a href="https://bcheights.com/231292/news/boston-college-receives-largest-donation-in-history-to-renovate-and-rename-carney-hall/" target="_blank"><font color="#8b0000"><u>$125
 million plan</u></font></a> to renovate Carney Hall in 2028.</p>
 <p>Rev. Jack Butler, S.J., will inherit
 these projects and Leahy's 430 acres when he takes office this July.
@@ -501,10 +501,11 @@ A campus minister by background, Butler has said little publicly
 about physical expansion.</p>
 <p>What he does with that inheritance—and
 whether the expansion continues into a new era—remains to be seen.</p>
-<p>“I promise to devote myself to
-continuing BC’s upward trajectory,” <a href="https://www.bc.edu/bc-web/sites/bc-news/articles/2025/spring/rev-jack-butler-sj-named-26th-president-of-boston-college.html"><font color="#8b0000"><u>he said upon being named president</u></font></a> in February. “And
+<p>"I promise to devote myself to
+continuing BC's upward trajectory," <a href="https://www.bc.edu/bc-web/sites/bc-news/articles/2025/spring/rev-jack-butler-sj-named-26th-president-of-boston-college.html" target="_blank"><font color="#8b0000"><u>he
+said upon being named president</u></font></a> in February. "And
 making this great university an even stronger beacon of light and
-hope for the world.”</p>`,
+hope for the world."</p>`,
 
             location: {
                 center: [-71.174, 42.339],
