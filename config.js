@@ -502,7 +502,7 @@ about physical expansion.</p>
 <p>What he does with that inheritance—and
 whether the expansion continues into a new era—remains to be seen.</p>
 <p>“I promise to devote myself to
-continuing BC’s upward trajectory,” <a href="https://www.bc.edu/bc-web/sites/bc-news/articles/2025/spring/rev-jack-butler-sj-named-26th-president-of-boston-college.html"><font color="#1155cc"><u>he
+continuing BC’s upward trajectory,” <a href="https://www.bc.edu/bc-web/sites/bc-news/articles/2025/spring/rev-jack-butler-sj-named-26th-president-of-boston-college.html"><font color="#8b0000"><u>he
 said upon being named president</u></font></a> in February. “And
 making this great university an even stronger beacon of light and
 hope for the world.”</p>`,
