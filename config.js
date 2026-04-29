@@ -297,7 +297,7 @@ buildings, and gardens.</p>`,
                 <img src="./assets/300-hammond-pond-pkwy.png" style="width:100%; margin-bottom: 4px;">
                 <p style="font-size: 13px; color: #888; margin: 0 0 12px 0; font-style: italic;">(Genevieve Morrison / Heights Editor)</p>
                 <p>The story of
-300 Hammond Pond Parkway begins, like Brighton, with another
+300 Hammond Pond Parkway begins, like Brighton and Dover, with another
 religious institution.</p>
 <p>Congregation Mishkan Tefila—considered
 the oldest conservative synagogue in Greater Boston—had occupied
